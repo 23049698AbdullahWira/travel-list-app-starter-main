@@ -40,6 +40,7 @@ function App() {
       <Form handleAddItems={handleAddItems} handleClearItems={handleClearItems}/>
       <PackingList items={items} handleDeleteItems={handleDeleteItems} handleUpdateItems={handleUpdateItems}/>
       <Stats items={items}/>
+      <p>234049698 Wira</p>
     </div>
   );
 }
